@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1RwyYZKHnaTraezNOQzomAftmiY0vsXvt
 """
 
-# Import libraries. You may or may not use all of these.
+# import libraries
 !pip install -q git+https://github.com/tensorflow/docs
 import matplotlib.pyplot as plt
 import numpy as np
