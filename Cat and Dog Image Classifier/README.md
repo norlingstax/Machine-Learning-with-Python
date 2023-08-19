@@ -1,3 +1,3 @@
-# Rock Paper Scissors
+# Cat and Dog Classifier
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+For this challenge, I had to use TensorFlow 2.0 and Keras to create a convolutional neural network that correctly classifies images of cats and dogs with at least 63% accuracy.
