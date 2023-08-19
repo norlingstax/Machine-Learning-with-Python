@@ -65,12 +65,10 @@ def build_and_compile_model(norm):
 model = build_and_compile_model(normalizer)
 model.summary()
 
-# Commented out IPython magic to ensure Python compatibility.
-# %%time
-# history = model.fit(
-#     train_dataset,
-#     train_labels,
-#     verbose=0, epochs=100)
+history = model.fit(
+     train_dataset,
+     train_labels,
+     verbose=0, epochs=100)
 
 test_results = {}
 
@@ -84,7 +82,7 @@ if mae < 3500:
 else:
   print("The Mean Abs Error must be less than 3500. Keep trying.")
 
-# Plot predictions.
+# plot predictions
 test_predictions = model.predict(test_dataset).flatten()
 
 a = plt.axes(aspect='equal')
