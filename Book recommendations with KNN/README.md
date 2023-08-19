@@ -1,3 +1,4 @@
-# Rock Paper Scissors
+# Book recommendations with KNN
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+In this challenge, I had to create a book recommendation algorithm using K-Nearest Neighbors.
+I used the Book-Crossings dataset. This dataset contains 1.1 million ratings (scale of 1-10) of 270,000 books by 90,000 users.
