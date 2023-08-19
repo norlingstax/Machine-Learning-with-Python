@@ -1,3 +1,4 @@
-# Rock Paper Scissors
+# Health costs prediction with regression
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+In this challenge, I predicted healthcare costs using a regression algorithm.
+I was given a dataset that contains information about different people including their healthcare costs. I used the given data to predict healthcare costs based on new data.
