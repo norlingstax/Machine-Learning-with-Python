@@ -25,7 +25,7 @@ import tensorflow_docs as tfdocs
 import tensorflow_docs.plots
 import tensorflow_docs.modeling
 
-# Import data
+# import data
 !wget https://cdn.freecodecamp.org/project-data/health-costs/insurance.csv
 dataset = pd.read_csv('insurance.csv')
 dataset.tail()
