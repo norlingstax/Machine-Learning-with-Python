@@ -1,3 +1,3 @@
 # Rock Paper Scissors
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+In this challenge, I built a program to play Rock, Paper, Scissors against four bots, and it wins at least 60% of the time. The program changes its strategy based on the bots’ playing patterns, which shows how algorithms can make decisions.
